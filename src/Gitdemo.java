@@ -34,7 +34,7 @@ public class Gitdemo {
 	public static void main(String[] args) {
 		
 		armstrong(15);
-		System.out.println("adding to staging area");
+		System.out.println("adding to staging areaaaaaaaaa");
 	
 
 	}
